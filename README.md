@@ -4,7 +4,7 @@
 <p align="left">
  <a href="https://twitter.com/martintembo_1" target="blank"><img src="https://img.shields.io/twitter/follow/martintembo_1?logo=twitter&style=for-the-badge" alt="martintembo_1" /></a> 
  <a href="facebook.com/martintembo.zm1" target="blank"><img src="https://img.shields.io/static/v1?logo=facebook&label=facaebook&style=for-the-badge&message=Martin%20Tembo&color=blue" alt="martintembo_1" /></a>
-  <a href="https://www.linkedin.com/martin-tembo-3844b3186" target="blank"><img src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&label=Linked%20In&message=Martin%20Tembo&color=blue" alt="Martin Tembo" /></a> 
+  <a href="https://www.linkedin.com/in/martin-tembo-3844b3186" target="blank"><img src="https://img.shields.io/static/v1?logo=linkedin&style=for-the-badge&label=Linked%20In&message=Martin%20Tembo&color=blue" alt="Martin Tembo" /></a> 
 </p>
 
 
