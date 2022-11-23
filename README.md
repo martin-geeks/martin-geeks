@@ -3,7 +3,7 @@
 <h3 align="center">A Full-stack Web developer based in Lusaka, Zambia</h3>
 <p align="left">
  <a href="https://twitter.com/martintembo_1" target="blank"><img src="https://img.shields.io/twitter/follow/martintembo_1?logo=twitter&style=for-the-badge" alt="martintembo_1" /></a> 
- <a href="facebook.com/martintembo.zm1" target="blank"><img src="https://img.shields.io/static/v1?logo=facebook&label=facaebook&message=Martin%20Tembo&color=blue" alt="martintembo_1" /></a> 
+ <a href="facebook.com/martintembo.zm1" target="blank"><img src="https://img.shields.io/static/v1?logo=facebook&label=facaebook&style=for-the-badge&message=Martin%20Tembo&color=blue" alt="martintembo_1" /></a> 
 </p>
 
 
