@@ -11,8 +11,10 @@
 - My Stack **ReactJS, TailwindCSS,Material UI,ExpressJS,AdonisJs and Python Flask Web Framework**
 - MERN STACK DEV
 - ***MongoDB,ExpressJS,ReactJS and NodeJS*** all in Typescript
-- DATABASE
-- 
+- DATABASE ORM
+- Prisma ORM and TypeORM
+- NO SQL DATABASE
+- Mongoose,PyMongo
 - 📫 Email me on **martin.mt.geek@gmail.com** or **martintembo.zm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
